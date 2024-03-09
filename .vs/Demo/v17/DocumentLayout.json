@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Task XLNC\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9E59AE-3A77-4D38-B093-810C5B381FDE}|Demo\\Demo.csproj|d:\\task xlnc\\demo\\demo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9E59AE-3A77-4D38-B093-810C5B381FDE}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9E59AE-3A77-4D38-B093-810C5B381FDE}|Demo\\Demo.csproj|d:\\task xlnc\\demo\\demo\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9E59AE-3A77-4D38-B093-810C5B381FDE}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9E59AE-3A77-4D38-B093-810C5B381FDE}|Demo\\Demo.csproj|d:\\task xlnc\\demo\\demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD9E59AE-3A77-4D38-B093-810C5B381FDE}|Demo\\Demo.csproj|solutionrelative:demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9E59AE-3A77-4D38-B093-810C5B381FDE}|Demo\\Demo.csproj|d:\\task xlnc\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9E59AE-3A77-4D38-B093-810C5B381FDE}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "D:\\Task XLNC\\Demo\\Demo\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\DesignationController.cs",
+              "ToolTip": "D:\\Task XLNC\\Demo\\Demo\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\DesignationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:13:55.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Task XLNC\\Demo\\Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo\\appsettings.json",
+              "ToolTip": "D:\\Task XLNC\\Demo\\Demo\\appsettings.json",
+              "RelativeToolTip": "Demo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T15:13:33.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Task XLNC\\Demo\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "D:\\Task XLNC\\Demo\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwAwAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:44:54.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Task XLNC\\Demo\\Demo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Task XLNC\\Demo\\Demo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAHkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:00:38.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
